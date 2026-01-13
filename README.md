@@ -982,16 +982,4 @@ Ask yourself: Am I reading fully or skimming? Am I applying rubrics or going by 
 
 ---
 
-## Quick Reference Card
-
-| Action | How To |
-|--------|--------|
-| Start survey | `streamlit run human_eval_survey_v2.py` |
-| Save progress | Click "Save to Folder" in sidebar |
-| Resume session | Load folder, upload Excel, click "Apply Saved Ratings" |
-| Navigate | Use "Previous" / "Next" or dropdown |
-| Submit rating | Complete all fields, click "Submit & Continue" |
-
----
-
 **Thank you for your contribution to this research!**
